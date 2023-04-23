@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\berna\\source\\repos\\PratoFioritoWeb\\PratoFioritoWeb\\PratoFioritoWeb.csproj": {}
+    "C:\\Users\\berna\\source\\repos\\pratofiorweb\\PratoFioritoWeb\\PratoFioritoWeb\\PratoFioritoWeb.csproj": {}
   },
   "projects": {
-    "C:\\Users\\berna\\source\\repos\\PratoFioritoWeb\\PratoFioritoWeb\\PratoFioritoWeb.csproj": {
+    "C:\\Users\\berna\\source\\repos\\pratofiorweb\\PratoFioritoWeb\\PratoFioritoWeb\\PratoFioritoWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\berna\\source\\repos\\PratoFioritoWeb\\PratoFioritoWeb\\PratoFioritoWeb.csproj",
+        "projectUniqueName": "C:\\Users\\berna\\source\\repos\\pratofiorweb\\PratoFioritoWeb\\PratoFioritoWeb\\PratoFioritoWeb.csproj",
         "projectName": "PratoFioritoWeb",
-        "projectPath": "C:\\Users\\berna\\source\\repos\\PratoFioritoWeb\\PratoFioritoWeb\\PratoFioritoWeb.csproj",
+        "projectPath": "C:\\Users\\berna\\source\\repos\\pratofiorweb\\PratoFioritoWeb\\PratoFioritoWeb\\PratoFioritoWeb.csproj",
         "packagesPath": "C:\\Users\\berna\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\berna\\source\\repos\\PratoFioritoWeb\\PratoFioritoWeb\\obj\\",
+        "outputPath": "C:\\Users\\berna\\source\\repos\\pratofiorweb\\PratoFioritoWeb\\PratoFioritoWeb\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\berna\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -38,6 +38,12 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "jQuery": {
+              "target": "Package",
+              "version": "[3.6.4, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
